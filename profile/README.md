@@ -12,7 +12,7 @@ SPDX-License-Identifier: Apache
 # ARPA-H CARE LLM 
 
 ## Introduction
-This GitHub organization contains code development related to the goals and sub-projects of the larger ARPA-H funded CARE LLM project, led by the Daneshjou and Akshay labs at Stanford University. Scientists, developers, clinicians, and engineers contribute to this multi-disciplinary project, aiming to harness the power of Large Language Models (LLMs) to address critical challenges in healthcare communication.
+This GitHub organization contains code development related to the goals and sub-projects of the larger ARPA-H funded CARE LLM project, led by the [Daneshjou](https://github.com/DaneshjouLab) and Akshay labs at Stanford University. Scientists, developers, clinicians, and engineers contribute to this multi-disciplinary project, aiming to harness the power of Large Language Models (LLMs) to address critical challenges in healthcare communication.
 
 ## Background
 Miscommunication in healthcare settings leads to significant costs, including preventable patient deaths and adverse outcomes. With healthcare workers often overstretched, timely patient inquiries are challenging. Large Language Models (LLMs) have emerged as a promising solution to ease communication and administrative burdens, showing potential in medical diagnosis, clinical text summarization, and automation of clinical documentation. However, LLMs require precise prompting and robust evaluation methods to avoid harmful inaccuracies and biases.
