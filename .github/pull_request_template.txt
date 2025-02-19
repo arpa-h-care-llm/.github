@@ -1,0 +1,38 @@
+# *Name of the PR*
+
+## :recycle: Current Situation & Problem
+*Link any open issues or pull requests (PRs) related to this PR. Please ensure that all non-trivial PRs are first tracked and discussed in an existing GitHub issue or discussion.*
+- Is this a bug fix, an enhancement, or a new feature?
+- Does this PR address performance issues (e.g., model inference time, memory efficiency) or improve ML pipeline performance?
+
+## :gear: Release Notes 
+*Add a bullet point summary of the feature, model improvements, or algorithmic changes, along with possible migration guides if this is a breaking change.*
+- If this is a model-related PR (e.g., training, fine-tuning, evaluation), list any significant changes to architecture or hyperparameters.
+- Include relevant code snippets, examples of the new ML features, or links to updated documentation (if it appends or changes any model/data pipeline interfaces).
+
+## :books: Documentation
+- Update any relevant sections in your project’s ML pipeline, preprocessing steps, or model design docs.
+- Document the reasoning behind model architecture decisions, changes to data augmentation, or hyperparameter tuning.
+- If introducing a new model or ML workflow, please include a high-level overview and references to any related papers or resources.
+
+## :chart_with_upwards_trend: Model Metrics & Performance
+*Detail the performance improvements, new metrics used, or model evaluation changes.*
+- Attach relevant model performance results (e.g., accuracy, F1 scores, AUC-ROC, precision-recall) from training and evaluation, including a comparison to the baseline.
+- Mention the datasets used for testing and whether results are reproducible across different seeds.
+- If applicable, include an ablation study summary or model explainability techniques used (e.g., SHAP, LIME).
+
+## :white_check_mark: Testing
+*Please ensure that the PR meets the testing requirements set by CodeCov and that new functionality is appropriately tested.*
+- Have you added unit tests for any new functions or methods?
+- If contributing new ML functionality, include tests for model training and evaluation pipelines.
+- Mention how edge cases (e.g., missing data, model convergence issues) are handled and tested.
+
+## :hammer_and_wrench: Training & Environment Setup
+*If the contribution involves model training or modifications to the ML pipeline:*
+- Mention the hardware setup (e.g., GPU/TPU) and software (frameworks, versions) required for reproducibility.
+- Include detailed instructions for running the model training or evaluation (data pipeline scripts, ML framework setups).
+
+## :pencil: Code of Conduct & Contributing Guidelines 
+
+By submitting this pull request, you agree to follow our [Coding Guidelines](https://github.com/DaneshjouLab/.github/blob/main/CODING_GUIDELINES.md):
+- [ ] I agree to follow the [Coding Guidelines](https://github.com/DaneshjouLab/.github/blob/main/CODING_GUIDELINES.md).
