@@ -21,10 +21,6 @@ Miscommunication in healthcare settings leads to significant costs, including pr
 This project addresses the challenges of prompting and evaluating patient-facing LLM-based chatbots, particularly in radiology imaging results and hospital discharge instructions. We aim to align our solutions with clinical and societal values by developing pragmatic criteria after consulting with key stakeholders, including healthcare professionals and patients.
 
 
-## Ethical AI Use and Accessibility
-Our project is committed to ethical AI use, ensuring our tools avoid biases and support all patients, including those with disabilities or from diverse cultural backgrounds. We prioritize human-centered design and rigorous data security measures to protect stakeholder information.
-
-
 ## Contributing
 While this organization contains private repositories, we value community contributions. If you are interested in contributing, please reach out to the repository administrators for access or more information on how you can participate. Additionally, for a detailed guide on coding standards and practices, take a look at our [Coding Guidelines](https://github.com/DaneshjouLab/.github/docs/CODING_GUIDELINES).
 
